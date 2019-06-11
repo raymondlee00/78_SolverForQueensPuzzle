@@ -75,7 +75,7 @@ public class SolverForQueensPuzzle {
                 //   inProgress.depopulate();
                 // }
             }
-            nBoardsConsidered++; //# of invocations == number of boards considered
+            nBoardsConsidered++; //# of invocations == # of boards considered
     }
 
 
