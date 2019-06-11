@@ -3,7 +3,7 @@
 ## ray's remarks
 
 ### citations / worked with / received help from
-* credit to oliver cai and michael robertson for clarifying some confusions over the plan described in Piazza@479(https://piazza.com/class/jlygg7rkooq77d?cid=479)
+* credit to oliver cai and michael robertson for clarifying some of my confusions over the plan described in Piazza@479(https://piazza.com/class/jlygg7rkooq77d?cid=479)
 * credit to jeff li for his idea of a perspicuous for-loop in SolverForQueensPuzzle.recordSolutionsStarted(); I would otherwise have put the inProgress.populate(i), invocation of recordSolutionsStarted and inProgress.depopulate() in the for-loop body instead of in the update.
 
 This list may omit sources common to everyone in the course,
